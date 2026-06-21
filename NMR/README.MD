@@ -1,0 +1,2 @@
+# Nuclear Magnetic Resonance (NMR) Data
+This folder in the Scientific_Data repository has Nuclear Magnetic Resonance (NMR) Data.  The data is mostly Bruker NMR (https://www.bruker.com/en/products-and-solutions/mr.html) data collected using Bruker's TopSpin software on their various NMR instruments. However, there can also be data from old Agilent or Varian NMR systems and even some new benchtop NMR systems.
